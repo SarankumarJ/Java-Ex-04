@@ -1,6 +1,6 @@
 # Exp-4 Java program to print the even numbers between 1-20
 ## Aim:-
-to write a java program to print the even numbers between 1-20
+To write a java program to print the even numbers between 1-20
 
 ## Procedure:-
 ### Step 1:
@@ -18,7 +18,7 @@ Stop the execution.
 ### Program:-
 #### Developed By : Sarankumar J
 #### Register Number : 212221230087
-```
+```java
 import java.util.*;
 public class EvenNumbers {
     public static void main(String[] args) {
@@ -36,6 +36,7 @@ public class EvenNumbers {
 }
 ```
 ## Output:-
+![image](https://github.com/SarankumarJ/Java-Ex-04/assets/94778101/abdf1b75-fb10-4a0f-bd30-8a5715e8d734)
 
 ## Result:-
 A java program to print the even numbers between 1-20 has been executed successfully.
