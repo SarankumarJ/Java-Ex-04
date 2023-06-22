@@ -1,4 +1,4 @@
-# Exp-4 Java program to print the even numbers between 1-20
+# Ex-03 Java program to print the even numbers from a range
 ## Aim:-
 To write a java program to print the even numbers between 1-20
 
